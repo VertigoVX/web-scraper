@@ -13,7 +13,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 # Set a custom User-Agent
 headers = {
-    'User-Agent': 'webScraper/1.0 (vertigovx@gmail.com)'
+    'User-Agent': 'webScraper/1.0 ('enter user email')'
 }
 
 # Create the osm_tiles directory if it doesn't exist
